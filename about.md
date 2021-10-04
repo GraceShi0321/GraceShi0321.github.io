@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Helloooo! This is Grace(Ruizhe) Shi~
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I hope to have a really awesome adventure in PIC16B classes! YEAH
 
 ### Contact me
 
