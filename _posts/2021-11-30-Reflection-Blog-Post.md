@@ -3,7 +3,6 @@ layout: post
 title: Reflection Blog Post
 ---
 
-<h1>Reflection Blog Post</h1>
 This is my reflection blog post for PIC16B project MasksOn.
 
 <h1>§1. What Achieved in the project</h1>
