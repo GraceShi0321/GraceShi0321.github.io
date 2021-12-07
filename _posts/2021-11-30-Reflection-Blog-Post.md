@@ -27,7 +27,7 @@ However, if the person chooses no, then the system will issue a reminder to ask 
 <h1>§4. Things For Further Improvements</h1>
 1. The current validation accuracy is around 97% for our model, there is still room for improvement.
 2. We were only able to build a mask classifier but not a detector while our initial final goal is to build a face mask detector. Thus, one direction for further improvement would be to figure out how to implement a face mask detector. 
-3. As our initial purpose is to develop a face mask detector; however, there are certain groups that cannot wear masks because of health or religious reasons. Thus, one director for further improvement is to think about how could our model also address the needs of people cannot wear masks.
+3. As our initial purpose is to develop a face mask detector; however, there are certain groups that cannot wear masks because of health or religious reasons. Thus, one director for further improvement is to try to address the needs of people cannot wear masks.
 
 <h1>§5. Thinking Back About Project Proposal</h1>
 In our proposal, we set the goal to first build a classifier then try to use openCV to build a detector so can detect people wearing masks in real time. 
